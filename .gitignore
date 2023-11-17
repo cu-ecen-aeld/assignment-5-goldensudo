@@ -1,3 +1,5 @@
+Test_*_Runner.c
+build/
 *.o
 build/
 .vscode/
